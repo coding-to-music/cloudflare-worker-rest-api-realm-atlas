@@ -1,6 +1,8 @@
 # IDEA
 .idea/
 
+api_tests/variables.sh
+
 # Build wrangler
 build/
 
